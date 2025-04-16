@@ -17,7 +17,7 @@ def encode_image(image_path):
 
 # Step 3: Setup Multimodal LLM
 query = "Is there something wrong with my face?"
-model = "llama-3.2-90b-vision-preview"
+model = "meta-llama/llama-4-scout-17b-16e-instruct"
 
 # Passing the key from env
 

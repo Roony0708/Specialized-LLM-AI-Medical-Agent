@@ -67,4 +67,5 @@ python voice_of_the_doctor.py
 # Phase 4: Web Interface
 python gradio_app.py
 ```
-
+### Note
+Make sure to make an account in GROQ and ELEVENLABS to retrieve the API keys and add both api keys to .env file the GROQ_AP_KEY and ELEVENLABS_API_KEY 
